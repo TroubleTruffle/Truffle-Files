@@ -1,0 +1,18 @@
+// Profile
+		// Add where you placed Aperture_Theme_Background.gif. Also update the name if you renamed it.
+		"backgroundImage": "C:\Aperture_Theme_Background.gif",
+        "padding": "55, 80, 55, 80",
+        "colorScheme": "Aperture",
+        "cursorShape": "underscore",
+        "backgroundImageStretchMode": "fill"
+		
+// Color Scheme
+		"name": "Aperture",
+
+		"cursorColor": "#ad722b",
+		"selectionBackground": "#7B5729",
+
+		"foreground": "#966628",
+		"background": "#7B5729",
+		"brightYellow": "#ad722b"
+		// The color scheme does not cover all most colors, most system defaults will apply.
