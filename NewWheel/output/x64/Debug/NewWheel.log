@@ -1,0 +1,3 @@
+﻿  NewWheel.cpp
+C:\Truffle Files\Dev\Test Apps\C++\NewWheel\src\NewWheel.cpp(15,8): warning C4101: 'tool': unreferenced local variable
+  NewWheel.vcxproj -> C:\Truffle Files\Dev\Test Apps\C++\NewWheel\x64\Debug\NewWheel.exe
